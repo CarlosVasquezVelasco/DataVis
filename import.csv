@@ -1,0 +1,27 @@
+,,,,,,0,1,2,3,4,5
+,,,,,,,2023,2024,2025,2026,2027
+EBIT,,,,,,,"4,039","4,192","4,326","4,438","4,526"
+Less: taxes,,,,,,,-915.397989596982,-995.539474318588,-1074.12288304857,-1150.06922944293,-1222
+NOPAT,,,,,,,"3,124","3,197","3,251","3,288","3,304"
+Add: Depreciation and amortization,,,,,,,555.69,580.81,592.52,608.23,615.19
+Add/Less: Working capital changes,,,,,,,-368,29,27,32,42
+Less: Investment in fixed assets,,,,,,,-689,-640,-637,-629,-617
+FCFF,,,,,,,"2,623","3,166","3,234","3,299","3,345"
+Discount factor,,,,,,,97.87%,93.75%,89.80%,86.01%,82.39%
+,,,,,,,,,,,
+Present value of Explicit period,,,,,,,,,,,
+,,,,,,14031.9698617494,,,,,
+Exit multiple,,,,,,,,,,,
+EV/EBITDA,,,,,,16.92,,,,,
+EBITDA,,,,,,,,,,,"5,141.64"
+Enterprise value (Terminal value),,,,,,70148.98,,,,,"86,996.62"
+Present value of terminal value,,,,,,,,,,,
+,,,,,,,,,,,
+Total Present value of operations,,,,,,"84,180.95",,,,,
+Add: Non Operating assets including cash,,,,,,981,,,,,
+Value of firm,,,,,,"85,161.95",,,,,
+Less: Debt ,,,,,,-7601,,,,,
+Less: Non-controlling interest,,,,,,-358,,,,,
+Value of equity,,,,,,"77,202.95",,,,,
+Shares outstanding ,,,,,,848.56,,,,,
+Value per share (20/02/2021),,,,,,90.98,,,,,
